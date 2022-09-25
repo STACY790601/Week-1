@@ -7,6 +7,7 @@ body {
 
 .frame{ 
     display:flex;
+    margin: 10px;
 }
 
 .left {
